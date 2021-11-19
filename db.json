@@ -1,0 +1,26 @@
+{
+    "konyvek":[
+        {
+            "id":1,
+            "nev":"Andrzej Sapkowski",
+            "cim":"Az ​utolsó kívánság",
+            "ar":3391,
+            "kategoria":"fantasy"
+        },
+        {
+            "id":2,
+            "nev":"Jenn Lyons",
+            "cim":"Királyok ​Veszte",
+            "ar":5054,
+            "kategoria":"fantasy"
+        }
+    ],
+    "szerzo":[
+        {
+            "id":1,
+            "nev":"Andrzej Sapkowski",
+            "szulev": 1948
+        }
+    ]
+
+}
